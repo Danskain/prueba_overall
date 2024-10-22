@@ -32,6 +32,8 @@ DB_USERNAME=usuario_de_la_base_de_datos
 DB_PASSWORD=contraseña_del_usuario
 
 
+`no olvidar crear la base de datos con el mismo nombre de DB_USERNAME`
+
 5. Generar la Clave de Aplicación
 
 Ejecuta el siguiente comando para generar una clave de aplicación, que se almacenará en el archivo .env:
